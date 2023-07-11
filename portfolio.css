@@ -3,6 +3,9 @@ nav {
     align-items: center;
     justify-content: space-between;
 }
+main section{
+   margin-top: 130px;
+}
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -186,4 +189,10 @@ main {
 }
 .resume-container{
     display: flex;
+    gap: 71px;
+    margin-top: 113px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
